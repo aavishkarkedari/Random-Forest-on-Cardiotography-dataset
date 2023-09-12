@@ -5,15 +5,15 @@ This repository contains code and information about applying a Random Forest cla
 
 ## Table of Contents
 
-- [Dataset Overview](#dataset-overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Exploratory Data Analysis](#exploratory-data-analysis)
-  - [Random Forest Model](#random-forest-model)
-  - [Evaluation and Results](#evaluation-and-results)
-- [Contributing](#contributing)
+- [Dataset Overview]
+- [Getting Started]
+  - [Prerequisites]
+  - [Installation]
+- [Usage]
+  - [Exploratory Data Analysis]
+  - [Random Forest Model]
+  - [Evaluation and Results]
+- [Contributing]
 
 ## Dataset Overview
 
